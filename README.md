@@ -17,7 +17,7 @@ Here're some of the project's best features:
 <p>1. Clone the Repository</p>
 
 ```
-git clone https://github.com/Deepak0045/Simple_Tweeter-usingDjango
+git clone https://github.com/Deepak0045/Django_Tweeter
 ```
 
 ```
