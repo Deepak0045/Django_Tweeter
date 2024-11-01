@@ -1,6 +1,7 @@
 <h1 align="center" id="title">Tweetwala</h1>
 
-<p id="description">Tweetwala is a streamlined social media web application built with Django designed to give users a simple platform to post edit and delete their tweets. With a clean and minimalist interface Tweetwala lets users express their thoughts effortlessly while maintaining full control over their posts.</p>
+<p id="description">Tweetwala is a streamlined social media web application built with Django, designed to give users a simple platform to post, edit and delete their tweets. 
+  With a clean and minimalist interface Tweetwala lets users express their thoughts effortlessly while maintaining full control over their posts.</p>
 
   
   
